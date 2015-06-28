@@ -1,25 +1,16 @@
-LF to CRLF
-Converts line ending in all MSN history events from line feed to carriage return
-and line feed.
-Copyright (C) 2009 - 2009  Very Crazy Dog (VCD)
+# lf2crlf
+A [Miranda IM] (http://www.miranda-im.org/) plugin to convert line ending in all
+MSN history events from line feed to carriage return and line feed.
 
-Tested on Miranda IM 0.8.1 on Windows XP
+Tested on Miranda IM 0.8.1 on Windows XP.
 
-This plugin is released under GPL.
-
-
-
-Notice
-============
+# Notice
 This plugin is intended to correct the incorrect line ending character from line
 feed (LF) to carriage return and line feed (CRLF), which is caused importing WLM
 message history using Windows Live Messenger History Import Plugin 
 (wlmHistoryImport.dll) version 0.1.2.0 and below.
 
-
-
-Usage
-============
+# Usage
 01. Copy lf2crlf.dll to Miranda IM plugin folder.
 02. Backup your current profile.
 03. Run Miranda IM.
@@ -33,3 +24,9 @@ Usage
 10. If necessary run the Miranda Database Tool to remove the duplicated MSN 
     history messages in Miranda IM profile.
 11. Done. :)
+
+# License
+Copyright (C) 2008 - 2009  Very Crazy Dog (VCD)
+
+This plugin is released under [GPL] 
+(http://www.gnu.org/licenses/gpl-3.0.en.html).
