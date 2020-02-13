@@ -1,5 +1,5 @@
 # lf2crlf
-A [Miranda IM] (http://www.miranda-im.org/) plugin to convert line ending in all
+A [Miranda IM](http://www.miranda-im.org/) plugin to convert line ending in all
 MSN history events from line feed to carriage return and line feed.
 
 Tested on Miranda IM 0.8.1 on Windows XP.
@@ -28,5 +28,4 @@ message history using Windows Live Messenger History Import Plugin
 # License
 Copyright (C) 2008 - 2009  Very Crazy Dog (VCD)
 
-This plugin is released under [GPL] 
-(http://www.gnu.org/licenses/gpl-3.0.en.html).
+This plugin is released under [GPL](http://www.gnu.org/licenses/gpl-3.0.en.html).
